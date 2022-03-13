@@ -1,16 +1,1 @@
-# medium_getx_counter_app
-
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![Android Emulator - Pixel_4_API_30_5554 2022-03-13 17-45-44](https://user-images.githubusercontent.com/49198022/158076758-0c434dfb-9fd5-4e37-835d-5f5de0f93e34.gif)
